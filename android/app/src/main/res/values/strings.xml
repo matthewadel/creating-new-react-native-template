@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">startReactNative</string>
+    <string name="facebook_app_id">664487175079509</string>
+    <string name="facebook_client_token">80ebe34af0860a42567a998ce32d1630</string>
 </resources>
